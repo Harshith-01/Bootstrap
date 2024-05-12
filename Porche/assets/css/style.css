@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(177, 43, 40);
+    margin: 0;
+}
+
+.bg-custom {
+    background-color: rgb(177, 43, 40);
+}
+
+.home-el {
+    background-color: rgb(177, 43, 40);
+    padding-top: 9rem;
+    padding-bottom: 9rem;
+}
+
+.btn-primary {
+    color: rgb(255, 255, 255);
+    background-color: rgb(177, 43, 40);
+    border-color: rgb(177, 43, 40);
+}
+
+.about-section {
+    background-color: rgb(177, 43, 40);
+}
+
+.about-section h2 {
+    text-align: center;
+    font-size: 280%;
+}
+
+.abt-dtl {
+
+}
+
+.pg-abt {
+    font-size: 140%;
+    color: white;
+    padding-bottom: 6rem;
+}
+
+.set-img {
+    padding-bottom: 2rem;
+}
+
+.card-body {
+    border: 1px solid rgb(45, 49, 68);
+}
+
+.card1:hover {
+    background: #30324d;
+    border: 1px solid rgb(45, 49, 68);
+}
+
+.card1:hover .list-group-item {
+    background: #30324d !important;
+}
+
+.card2:hover {
+    background: #30324d;
+    border: 1px solid rgb(45, 49, 68);
+}
+
+.card2:hover .list-group-item {
+    background: #30324d !important;
+}
+
+.card3:hover {
+    background: #30324d;
+    border: 1px solid rgb(45, 49, 68);
+}
+
+.card3:hover .list-group-item {
+    background: #30324d !important;
+}
+
+.card:hover .btn-outline-dark {
+    color: white;
+    background: #212529;
+}
+
+.contact-pg {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
+.contact-pg h2 {
+    font-size: 280%;
+}
+
+.lt-footer {
+    padding-top: 2rem;
+    background-color: rgb(22, 25, 43);
+}
+
+/* Adjusted Navbar Styles */
+.navbar {
+    padding: 0;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.nav-item {
+    padding-left: 15px;
+    padding-right: 15px;
+}
